@@ -1,0 +1,37 @@
+.heading
+{
+    font-size: 11px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 35px 35px 40px rgb(1, 26, 255);
+    font-family: 'New Tegomin', serif;
+}
+.heading_div
+{
+    float: none;
+    background: white;
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+    box-shadow: 20px 20px 30px rgb(162, 0, 255);
+    font-family: 'New Tegomin', serif;
+}
+.heading_div2
+{
+    font-size: 16px;
+    box-shadow: 5px 5px 15px rgb(255, 0, 212);
+    font-family: 'New Tegomin', serif;
+}
+.result_para_tag
+{
+    box-shadow: 5px 5px 5px rgb(70, 243, 113);
+    font-size: 15px;
+    font-family: 'New Tegomin', serif;
+}
+canvas
+{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 15px grey;
+    margin-top: 120px;
+}
